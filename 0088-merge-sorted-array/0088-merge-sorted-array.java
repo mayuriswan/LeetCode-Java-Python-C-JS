@@ -3,8 +3,8 @@ class Solution {
         
         if(n==0) return ;  
 
-       for(int i =n;i>0;i--){
-           nums1[m+i-1] = nums2[i-1];
+       for(int i =0;i<n;i++){
+           nums1[m+i] = nums2[i];
        }
         Arrays.sort(nums1);
     }

@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0088-merge-sorted-array) |
 ## Binary Search
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |

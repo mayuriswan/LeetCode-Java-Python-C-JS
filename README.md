@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0088-merge-sorted-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |

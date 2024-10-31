@@ -33,4 +33,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0125-valid-palindrome) |
 | [2442-number-of-arithmetic-triplets](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/2442-number-of-arithmetic-triplets) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

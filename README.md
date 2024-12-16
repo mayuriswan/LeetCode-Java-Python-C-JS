@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0035-search-insert-position) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0125-valid-palindrome) |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/mayuriswan/LeetCode-Java-Python-C-JS/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |

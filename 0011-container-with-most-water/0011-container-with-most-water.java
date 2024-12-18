@@ -6,9 +6,10 @@ class Solution {
         while(l<r){
             int min = Math.min(height[l], height[r]); 
             int distance = r-l ; 
-            if(result <min*distance){
+            int current  = min*distance;
+            if(result <current){
                 
-                result = min*distance;
+                result = current;
             }
             if(height[l]>height[r]){
                 r--;

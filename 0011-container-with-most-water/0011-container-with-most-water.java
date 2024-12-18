@@ -11,10 +11,11 @@ class Solution {
                 
                 result = current;
             }
-            if(height[l]>height[r]){
-                r--;
-            }else{
+           while(l<r && height[l]<=min){
                 l++;
+            }
+            while(l<r && height[r]<=min){
+                r--;
             }
 
         }

@@ -22,8 +22,7 @@ class Solution {
                      sum = sum + 10;
                     break;
                 case 'L':
-                    if(pre == 'V')
-                     sum = sum + 40;
+                    
                     if(pre == 'X')
                      sum = sum + 30;
                     else
